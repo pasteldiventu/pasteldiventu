@@ -1,7 +1,7 @@
 ### OLá, sou o João Pedro 👋
 
 - 📖 estou estudando no momento principalmente Go, Javascript e Python
-- ⚡ estudo sistemas de informação e pretendo trabalhar com desenvolvimento 
+- ⚡ estou cursando sistemas de informação e pretendo trabalhar com desenvolvimento 
   <div>
   <a href="https://github.com/pasteldiventu">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-plain.svg">
