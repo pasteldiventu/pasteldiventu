@@ -1,6 +1,7 @@
 ### OLá, sou o João Pedro 👋
 
-- 📖 estou estudando no momento principalmente Go, Javascript e Python
+- 📖 estou estudando no momento desenvolvimento Backend com:
+- Go, Javascript e Python, focado nos frameworks Nest e FastAPI
 - ⚡ estou cursando sistemas de informação e pretendo trabalhar com desenvolvimento 
   <div>
   <a href="https://github.com/pasteldiventu">
