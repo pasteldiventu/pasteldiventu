@@ -11,8 +11,8 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
 <div>
+  <img align="left" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW93M3FzMmF1dXZpdGdhZjRvczhneW1lMDduNzJmeDgzbG1hZGMwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lP8ezu4iNVmZYOZn3j/giphy.gif"/>
   <a href="https://github.com/pasteldiventu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pasteldiventu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasteldiventu&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <div> 
