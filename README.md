@@ -6,12 +6,12 @@
 
 <div>
   <img align="right" height="140" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW93M3FzMmF1dXZpdGdhZjRvczhneW1lMDduNzJmeDgzbG1hZGMwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lP8ezu4iNVmZYOZn3j/giphy.gif"/>
-<h3 align="left">Connect with me!</h3>
+<h3 align="left">Contatos</h3>
 <a href="https://instagram.com/jp_om_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joão-pedro-oliveira-86b953238" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedIn&logoColor=white" target="_blank"></a> 
   <a href="https://x.com/var_jotape" target="_blank"><img src="https://img.shields.io/badge/-X(twitter)-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 
-<h3 align="left">My Stack ~</h3>
+<h3 align="left">skills ~</h3>
 
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-plain.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
