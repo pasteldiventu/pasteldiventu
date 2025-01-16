@@ -1,7 +1,7 @@
 ### OLá, sou o João Pedro 👋
 
 - 📖 estou estudando e trabalhando no momento com desenvolvimento Backend:
-- Go, Javascript e Python, focado nos frameworks Nest e FastAPI
+- 🔎 Go, Javascript e Python, focado nos frameworks Nest e FastAPI
 - ⚡ estou cursando sistemas de informação e pretendo trabalhar com desenvolvimento 
 
 <div>
