@@ -3,22 +3,31 @@
 - 📖 estou estudando e trabalhando no momento com desenvolvimento Backend:
 - Go, Javascript e Python, focado nos frameworks Nest e FastAPI
 - ⚡ estou cursando sistemas de informação e pretendo trabalhar com desenvolvimento 
-  <div>
-  <a href="https://github.com/pasteldiventu">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-plain.svg">
+
+<div>
+  <img align="right" height="140" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW93M3FzMmF1dXZpdGdhZjRvczhneW1lMDduNzJmeDgzbG1hZGMwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lP8ezu4iNVmZYOZn3j/giphy.gif"/>
+<h3 align="left">Connect with me!</h3>
+<a href="https://instagram.com/jp_om_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joão-pedro-oliveira-86b953238" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedIn&logoColor=white" target="_blank"></a> 
+  <a href="https://x.com/var_jotape" target="_blank"><img src="https://img.shields.io/badge/-X(twitter)-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+
+<h3 align="left">My Stack ~</h3>
+
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-plain.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
 </div>
-<div>
-  <img align="left" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW93M3FzMmF1dXZpdGdhZjRvczhneW1lMDduNzJmeDgzbG1hZGMwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lP8ezu4iNVmZYOZn3j/giphy.gif"/>
-  <a href="https://github.com/pasteldiventu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasteldiventu&layout=compact&langs_count=16&theme=dracula"/>
+
+<div style="text-align: center;" align="center">
+  <h3> GitHub Stats💻</h3>
+  <br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pasteldiventu&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
+
+  <a href="https://github.com/pasteldiventu/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pasteldiventu&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
+  </a>
 </div>
-<div> 
-  <a href="https://instagram.com/jp_om_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joão-pedro-oliveira-86b953238" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedIn&logoColor=white" target="_blank"></a> 
-  <a href="https://x.com/var_jotape" target="_blank"><img src="https://img.shields.io/badge/-X(twitter)-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
 
 
 <picture align="center">
