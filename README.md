@@ -8,13 +8,13 @@
 
 # Sobre mim
 
-- 🟢Estudante de **Sistemas de Informação (UFMT - 4/8)** 
-- 🌆 Dev Backend em constante melhora, Atualmente me aprofundando em Rust, computação em nuvem e Arquitetura de software.
-- 🧩 projetos pessoais e outros feitos pra faculdade,de APIs a experimentos com visão computacional e interfaces web simples. 
-- 🔮 Se não estou codando,provavelmente to jogando RPG de mesa ou tocando baixo.
+- 🟢Estudante de **Sistemas de Informação (UFMT - 4/8)** 
+- 🌆 Dev Backend em constante melhora. Atualmente me aprofundando em Rust, computação em nuvem e Arquitetura de software.
+- 🧩 Projetos pessoais e outros feitos pra faculdade, de APIs a experimentos com visão computacional e interfaces web simples. 
+- 🔮 Se não estou codando, provavelmente to jogando RPG de mesa ou tocando baixo.
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=pasteldiventu&theme=radical&hide_border=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=pasteldiventu&hide_border=true&background=0d1117&ring=6a0dad&fire=39ff14&currStreakNum=39ff14&currStreakLabel=6a0dad&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" height="160" />
 </div>
 
 ---
@@ -22,15 +22,15 @@
 # Conecte-se comigo
 
 <div align="center">
-  <a href="https://instagram.com/jp_om_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=39ff14" alt="Instagram">
-  </a>
-  <a href="https://www.linkedin.com/in/joão-pedro-oliveira-86b953238" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39ff14" alt="LinkedIn">
-  </a>
-  <a href="https://x.com/var_jotape" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=39ff14" alt="X">
-  </a>
+  <a href="https://instagram.com/jp_om_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=39ff14" alt="Instagram">
+  </a>
+  <a href="https://www.linkedin.com/in/joão-pedro-oliveira-86b953238" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39ff14" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/var_jotape" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=39ff14" alt="X">
+  </a>
 </div>
 
 </td>
@@ -79,9 +79,11 @@
 
 </div>
 
----  
-# Github Stats 
-<img width="100%" height="160px" src="https://github-readme-stats-lime-sigma-37.vercel.app/api/top-langs/?username=pasteldiventu&layout=compact&hide_border=true&bg_color=0d1117&theme=dracula" />
+---  
+# Github Stats 
+<img width="100%" height="190px" src="https://github-readme-stats-lime-sigma-37.vercel.app/api/top-langs/?username=pasteldiventu&layout=compact&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=ffffff" />
+
+<img width="100%" height="160px" src="https://github-readme-stats-lime-sigma-37.vercel.app/api?username=pasteldiventu&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=6a0dad&text_color=ffffff"/> 
 
 </div>
 
@@ -93,10 +95,10 @@
 ---
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pasteldiventu/pasteldiventu/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" src="https://raw.githubusercontent.com/pasteldiventu/pasteldiventu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pasteldiventu/pasteldiventu/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" src="https://raw.githubusercontent.com/pasteldiventu/pasteldiventu/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 <div align="right">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6a0dad,100:39ff14" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6a0dad,100:39ff14" />
 </div>
