@@ -48,8 +48,6 @@ Estudante de **Sistemas de Informação** focado em desenvolvimento **Backend**.
 
 <div align="right">
 
-<img height="140" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW93M3FzMmF1dXZpdGdhZjRvczhneW1lMDduNzJmeDgzbG1hZGMwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lP8ezu4iNVmZYOZn3j/giphy.gif"/>
-
 </div>
 
 # Tecnologias & Ferramentas
@@ -83,13 +81,9 @@ Estudante de **Sistemas de Informação** focado em desenvolvimento **Backend**.
 
 ---
 
-# GitHub Stats
-
+# Mood
+<img height="140" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW93M3FzMmF1dXZpdGdhZjRvczhneW1lMDduNzJmeDgzbG1hZGMwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lP8ezu4iNVmZYOZn3j/giphy.gif"/>
 <div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pasteldiventu&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasteldiventu&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 
 </div>
 
