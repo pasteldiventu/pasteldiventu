@@ -30,8 +30,7 @@
 <div style="text-align: center;" align="center">
   <h3> GitHub Stats 💻</h3>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=pasteldiventu&show_icons=true&theme=synthwave">
-
+<img src="https://streak-stats.demolab.com?user=pasteldiventu&theme=dark" />
   <a href="(https://github-readme-stats.vercel.app/api/top-langs/?username=pasteldiventu&layout=compact&theme=dracula)">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasteldiventu&layout=compact&theme=synthwave">
   </a>
